@@ -46,7 +46,7 @@ const ApplyForm = () => {
     data.append('cv', formData.cv);
 
     try {
-      const response = await axios.post('https://quickchef-server.onrender.com/api/apply', data, {
+      const response = await axios.post('https://quikchef-server.onrender.com/api/apply', data, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
