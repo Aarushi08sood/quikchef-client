@@ -28,7 +28,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://quickchef-server.onrender.com",
+  "proxy": "https://quikchef-server.onrender.com",
   "eslintConfig": {
     "extends": [
       "react-app",
